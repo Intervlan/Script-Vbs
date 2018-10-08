@@ -2,6 +2,7 @@
 ' Fichier: "Verification_de_service.vbs"
 ' Date : 05/06/2017
 ' Utilisation: Ce script permet de verifier si un service est activer et s'il n'est pas activer le script l'active
+' Autor : Intervlan
 '----------------------------------------------------------------------------------------------------------------------------------------
 
 Set WshShell = WScript.CreateObject("WScript.Shell")
